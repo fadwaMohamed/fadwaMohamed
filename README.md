@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Angular and ASP.net**
 
-- 📫 How to reach me **fadwaMohamed789@gmail.com.**
+- 📫 How to reach me **fadwaMohamed789@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/131OT5g7ouE5_GxPvfVzOxa8_X_xPMM1p?usp=sharing.](https://drive.google.com/drive/folders/131OT5g7ouE5_GxPvfVzOxa8_X_xPMM1p?usp=sharing.)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/131OT5g7ouE5_GxPvfVzOxa8_X_xPMM1p?usp=sharing](https://drive.google.com/drive/folders/131OT5g7ouE5_GxPvfVzOxa8_X_xPMM1p?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
