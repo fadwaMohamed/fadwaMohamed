@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fadwa Mohamed</h1>
 <h3 align="center">A Software Developer</h3>
 
-- 🔭 I’m currently working on **Angular and ASP.net**
+- 🔭 I’m currently working on **Angular**
 
 - 📫 How to reach me **fadwaMohamed789@gmail.com**
 
